@@ -1,11 +1,36 @@
-<h1 align="center">Welcome, I am Lonaasan</h1>
-<h3 align="center">Programmer gal, modding, tinkering and more!</h3>
+<h1 align="center">Hi there, I'm Lonaasan 👋</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lonaasan&label=Profile%20views&color=0e75b6&style=flat" alt="lonaasan" /> </p>
+<p align="center">I'm a passionate programmer who loves modding, tinkering, and more! I'm currently working on some exciting projects and always eager to learn more and grow.</p>
 
-<p align="center" style="color: #fff; font-family: sans-serif; margin: 0; font-size: 16px; font-weight: bold;">I am currently working on <a href="https://github.com/Lonaasan/StarLoader" style="color: #00FFFF; text-decoration: none;">StarLoader</a></p>
+<h2 align="center">🚀 Projects</h2>
 
-<p align="center" style="color: #fff; font-family: sans-serif; margin: 0; font-size: 16px; font-weight: bold;">and also on My Website (https://shadowlona.dev)</p>
+<div align="center">
+  <a href="https://github.com/Starbound-Neon/StarLoader">
+    <img src="https://shadowlona.dev/assets/starloader.png" alt="StarLoader" width="200" height="200" style="display:block; margin:auto; max-width:100%; max-height:100%;">
+  </a>
+    <a href="https://twirp.api.thecorner.cc/api/">
+    <img src="https://cdn.discordapp.com/attachments/1128628285799157760/1130791451803005019/isfPcdB.png" alt="Twirp Discord Bot" height="200" style="display:block; margin:auto; max-width:100%; max-height:100%;">
+  </a>
+  <a href="https://github.com/Starbound-Neon/Neon">
+    <img src="https://shadowlona.dev/assets/neon.png" alt="Neon++" width="200" height="200" style="display:block; margin:auto; max-width:100%; max-height:100%;">
+  </a>
+</div>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h2 align="center">💻 Skills</h2>
+
+<p align="center">
+  Programming Languages: C#, JavaScript, Python<br>
+  Web Technologies: HTML5, CSS3<br>
+  Tools: Add any tools, frameworks, or libraries you're familiar with.
+</p>
+
+<h2 align="center">📫 Contact Me</h2>
+
+<p align="center">
+  Email: <a href="mailto:shadowlona@shadowlona.dev">shadowlona@shadowlona.dev</a><br>
+  Website: <a href="https://shadowlona.dev">shadowlona.dev</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lonaasan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+</p>
