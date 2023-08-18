@@ -14,12 +14,12 @@
     <img src="https://cdn.discordapp.com/attachments/1128628285799157760/1130791451803005019/isfPcdB.png" alt="Twirp Discord Bot" height="200" style="display:block; margin:auto; max-width:100%; max-height:100%;">
   </a>
   <br>
-  <p align="center">My current project i am working on</p>
+  <p align="center">My current project I am working on</p>
   <a href="https://github.com/Starbound-Neon/Neon" align="center">
     <img src="https://shadowlona.dev/assets/neon.png" alt="Neon++" width="200" height="200" style="display:block; margin:auto; max-width:100%; max-height:100%;">
   </a>
   <br>
-  <p align="center">A deep dive into game hacking and c++</p>
+  <p align="center">A deep dive into game hacking and C++</p>
 </div>
 
 <h2 align="center">💻 Skills</h2>
