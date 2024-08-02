@@ -10,7 +10,7 @@
   </a>
   <p align="center">This is my first big modding project</p>
   <br>
-  <a href="https://twirp.api.thecorner.cc/api/" align="center">
+  <a href="https://ysrv.de" align="center">
     <img src="https://shadowlona.dev/assets/nebula.png" alt="Project Nebula" height="200" style="display:block; margin:auto; max-width:100%; max-height:100%;">
   </a>
   <br>
