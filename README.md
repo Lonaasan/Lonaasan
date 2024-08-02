@@ -11,10 +11,10 @@
   <p align="center">This is my first big modding project</p>
   <br>
   <a href="https://twirp.api.thecorner.cc/api/" align="center">
-    <img src="https://cdn.discordapp.com/attachments/1128628285799157760/1130791451803005019/isfPcdB.png" alt="Twirp Discord Bot" height="200" style="display:block; margin:auto; max-width:100%; max-height:100%;">
+    <img src="https://shadowlona.dev/assets/nebula.png" alt="Project Nebula" height="200" style="display:block; margin:auto; max-width:100%; max-height:100%;">
   </a>
   <br>
-  <p align="center">My current project I am working on</p>
+  <p align="center">The selfhosted datacenter</p>
   <a href="https://github.com/Starbound-Neon/Neon" align="center">
     <img src="https://shadowlona.dev/assets/neon.png" alt="Neon++" width="200" height="200" style="display:block; margin:auto; max-width:100%; max-height:100%;">
   </a>
@@ -50,6 +50,12 @@
         </a><br>
         <a href="https://shadowlona.dev/" style="color: #ffffff; text-decoration: none;">
           <img src="https://shadowlona.dev/assets/smol/link-solid-smol.png" alt="Link Icon" style="width: 13px; height: 10px;"> shadowlona.dev
+        </a><br>
+        <a href="https://matrix.to/#/@lonaasan:matrix.ysrv.de" style="color: #ffffff; text-decoration: none;">
+          <img src="https://shadowlona.dev/assets/smol/link-solid-smol.png" alt="Link Icon" style="width: 13px; height: 10px;"> lonaasan@matrix.ysrv.de
+        </a><br>
+        <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/B724133E2F14F9FDBC637A305F92798A3B5989B5" style="color: #ffffff; text-decoration: none;">
+          <img src="https://shadowlona.dev/assets/smol/link-solid-smol.png" alt="Link Icon" style="width: 13px; height: 10px;"> OpenPGP Pubilc Key
         </a>
       </p>
     </td>
