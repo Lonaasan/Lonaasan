@@ -5,8 +5,8 @@
 <h2 align="center">🚀 Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/Starbound-Neon/StarLoader" align="center">
-    <img src="https://shadowlona.dev/assets/starloader.png" alt="StarLoader" width="200" height="200" style="display:block; margin:auto; max-width:100%; max-height:100%;">
+  <a href="https://github.com/Starbound-Neon/Prisma" align="center">
+    <img src="https://shadowlona.dev/assets/Prisma_both_transparent.png" alt="StarLoader" width="200" height="200" style="display:block; margin:auto; max-width:100%; max-height:100%;">
   </a>
   <p align="center">This is my first big modding project</p>
   <br>
