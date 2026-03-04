@@ -25,7 +25,7 @@
           <img src="https://shadowlona.dev/assets/smol/link-solid-smol.png" alt="Link Icon" style="width: 13px; height: 10px;"> lonaasan@matrix.ysrv.de
         </a><br>
         <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/B724133E2F14F9FDBC637A305F92798A3B5989B5" style="color: #ffffff; text-decoration: none;">
-          <img src="https://shadowlona.dev/assets/smol/link-solid-smol.png" alt="Link Icon" style="width: 13px; height: 10px;"> OpenPGP Pubilc Key
+          <img src="https://shadowlona.dev/assets/smol/link-solid-smol.png" alt="Link Icon" style="width: 13px; height: 10px;"> OpenPGP Public Key
         </a>
       </p>
     </td>
